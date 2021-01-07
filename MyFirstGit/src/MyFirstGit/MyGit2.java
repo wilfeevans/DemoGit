@@ -5,7 +5,7 @@ public class MyGit2 {
 	public static void main(String[] args) 
 	{
 	
-		int a=109;
+		int a=509;
 		int b=70;
 		int subtract= a - b;
 		System.out.println("Subtract:" + subtract);
