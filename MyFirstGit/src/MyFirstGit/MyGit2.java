@@ -10,7 +10,7 @@ public class MyGit2 {
 		int subtract= a - b;
 		System.out.println("Subtract:" + subtract);
 		//Please test whether this got committed
-		//Please revert after commit
+		//Please revert after committed
 				
 
 	}
